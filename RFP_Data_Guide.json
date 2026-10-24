@@ -1,0 +1,48 @@
+{
+  "criteria_weights": {
+    "Technical Capability": 30,
+    "Implementation Plan": 20,
+    "Commercial Value": 20,
+    "Security & Compliance": 20,
+    "Support & Experience": 10
+  },
+  "known_prices": {
+    "Apex Systems": 420000,
+    "BrightPath Tech": 245000,
+    "NexaWorks": 330000,
+    "Orbit Digital": 315000
+  },
+  "expected_qualitative_order_hint": {
+    "Technical Capability": [
+      "Apex Systems",
+      "NexaWorks",
+      "Orbit Digital",
+      "BrightPath Tech"
+    ],
+    "Implementation Plan": [
+      "NexaWorks",
+      "Apex Systems",
+      "Orbit Digital",
+      "BrightPath Tech"
+    ],
+    "Commercial Value": [
+      "BrightPath Tech",
+      "Orbit Digital",
+      "NexaWorks",
+      "Apex Systems"
+    ],
+    "Security & Compliance": [
+      "Apex Systems",
+      "NexaWorks",
+      "Orbit Digital",
+      "BrightPath Tech"
+    ],
+    "Support & Experience": [
+      "NexaWorks",
+      "Orbit Digital",
+      "Apex Systems",
+      "BrightPath Tech"
+    ]
+  },
+  "note": "These are qualitative test expectations, not hard-coded answer keys. The actual score must be generated from proposal evidence and validated LLM output."
+}

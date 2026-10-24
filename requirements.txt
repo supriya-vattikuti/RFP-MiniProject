@@ -1,0 +1,4 @@
+streamlit>=1.38,<2
+pypdf>=5,<7
+cohere>=5,<6
+pytest>=8,<9
